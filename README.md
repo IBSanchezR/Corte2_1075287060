@@ -22,7 +22,7 @@ La idea es saber en un programa sobre 'el cliente' que necesitan 'alquiler' un a
 
 #### Diseñar Base de Datos
 Datos a tener en cuenta
-
+`Cliente`
 | código | Nombre            | Cedula o Pasaporte| Licencia de Conducir |  Direccion   | Telefono | Email   |
 |--------|-------------------|-------------------|----------------------|--------------|----------|---------|
 |  4526  | Pedro Gonzalez    | 1075287060        |     A2 - B1          |     Cll 26a  |3105810733|  Pedro@ |  
