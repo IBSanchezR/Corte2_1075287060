@@ -22,6 +22,8 @@ La idea es saber en un programa sobre 'el cliente' que necesitan 'alquiler' un a
 
 #### Diseñar Base de Datos
 Datos a tener en cuenta
+
+
 `Cliente`
 | código | Nombre            | Cedula o Pasaporte| Licencia de Conducir |  Direccion   | Telefono | Email   |
 |--------|-------------------|-------------------|----------------------|--------------|----------|---------|
