@@ -9,6 +9,9 @@ Ponga mucha atención
 3. le da al + del README
 4. Agrega algún comentario donde dice message
 5. Le da en commit
+6 le da clic en guardar
+7 clic en sync changes
+
 
 #### Análisis: Definición de requerimientos. 
 
