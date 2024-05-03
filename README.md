@@ -21,6 +21,10 @@
 #### Diseñar Base de Datos
 Datos a tener en cuenta
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 89a001fac00e160ba06fd52f2e2d5bcd9ba039a6
 `Cliente`
 | código | Nombre            | Cedula o Pasaporte| Licencia de Conducir |  Direccion   | Telefono | Email   |
 |--------|-------------------|-------------------|----------------------|--------------|----------|---------|
