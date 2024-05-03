@@ -2,7 +2,13 @@
 # Control Automóvil. 
 
 #### Necesidad:  
-REvise
+Ponga mucha atención
+
+1 Paso Source clic
+2 control s pa guardar
+3. le da al + del README
+4. Agrega algún comentario donde dice message
+5. Le da en commit
 
 #### Análisis: Definición de requerimientos. 
 
